@@ -24,10 +24,10 @@ Página del proyecto: [Finanzas](https://www.sofroscorp.com/proyectos/index.html
 
 ## Demo
 
-![App Screenshot](https://github.com/jPablo23/FinanzasPersonales/tree/main/FinanzasPersonalesIMG/ingresar.gif)
+![App Screenshot](https://github.com/jPablo23/FinanzasPersonales/blob/main/FinanzasPersonalesIMG/ingresar.gif)
 
 ##
-![App Screenshot](https://github.com/jPablo23/FinanzasPersonales/tree/main/FinanzasPersonalesIMG/Graficas.gif)
+![App Screenshot](https://github.com/jPablo23/FinanzasPersonales/blob/main/FinanzasPersonalesIMG/Graficas.gif)
 
 
 
