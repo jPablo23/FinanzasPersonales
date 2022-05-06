@@ -16,7 +16,7 @@ En ocasiones yo necesitaba saber donde quedaba mi dinero, porque recibía mi sue
 ## Link a hoja automatizada Google Sheets
 
 Página del proyecto: [Finanzas](https://www.sofroscorp.com/proyectos/index.html) | Google Sheets: [Finanzas_v5
-](https://www.sofroscorp.com/proyectos/index.html) 
+](https://docs.google.com/spreadsheets/d/1tH4YllcY-Wqm8aGR2qlro00pcTzaX5UzFnSSkSI0li4/edit?usp=sharing) 
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
@@ -24,7 +24,11 @@ Página del proyecto: [Finanzas](https://www.sofroscorp.com/proyectos/index.html
 
 ## Demo
 
-Insert gif or link to demo
+![App Screenshot](https://github.com/jPablo23/FinanzasPersonales/tree/main/FinanzasPersonalesIMG/ingresar.gif)
+
+##
+![App Screenshot](https://github.com/jPablo23/FinanzasPersonales/tree/main/FinanzasPersonalesIMG/Graficas.gif)
+
 
 
 ## Documentación
